@@ -1,7 +1,7 @@
 # Intoduction-of-Phython
 Phython is bahasa pemrograman tingkat tinggi yang dikenal mudah dipelajari dan memiliki sintaks yang bersih. Python mendukung berbagai paradigma pemrograman, seperti pemrograman berorientasi objek, prosedural, dan fungsional. Secara fungsi Python banyak digunakan dalam pengembangan web, analisis data, kecerdasan buatan, otomatisasi tugas, dan lain-lain.
 
-##Goals:
+## Goals:
 1. Memahami struktur data Phython dan memanggil value dari variabel yang benar
 2. Aturan penamaan variabel
 3. Memahami Kondisi dalam pemrograman Phython
@@ -19,12 +19,12 @@ Phython is bahasa pemrograman tingkat tinggi yang dikenal mudah dipelajari dan m
    e.Nama variabel tidak boleh berupa kata kunci Python apa pun.
   
 3. Pemrograman Python supports the usual logical conditions from mathematics yang nantinya dikombindasikan dengan sturktur codingan kondisi.
-   a. Equals: a == b
-   b. Not Equals: a != b
-   c. Less than: a < b
-   d. Less than or equal to: a <= b
-   e. Greater than: a > b
-   f. Greater than or equal to: a >= b
+a. Equals: a == b
+b. Not Equals: a != b
+c. Less than: a < b
+d. Less than or equal to: a <= b
+e. Greater than: a > b
+f. Greater than or equal to: a >= b
 Kondisi dalam Phython dapat dilakukan dengan beberap cara. Paling sering digunakan adalah “if” statements dan loops. Kata kunci elif adalah cara Python untuk mengatakan "jika kondisi sebelumnya tidak benar, maka coba kondisi ini". Sehingga program atau system akan mengecek apakah kondisi ini benar atau tidak. Kata kunci else menangkap apa pun yang tidak ditangkap oleh kondisi sebelumnya.
 
 
