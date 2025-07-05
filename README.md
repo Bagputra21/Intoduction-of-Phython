@@ -25,7 +25,7 @@ Phython is bahasa pemrograman tingkat tinggi yang dikenal mudah dipelajari dan m
    d. Less than or equal to: a <= b
    e. Greater than: a > b
    f. Greater than or equal to: a >= b
-These conditions can be used in several ways, most commonly in "if statements" and loops. An "if statement" is written by using the if keyword.
+Kondisi dalam Phython dapat dilakukan dengan beberap cara. Paling sering digunakan adalah “if” statements dan loops. Kata kunci elif adalah cara Python untuk mengatakan "jika kondisi sebelumnya tidak benar, maka coba kondisi ini". Sehingga program atau system akan mengecek apakah kondisi ini benar atau tidak. Kata kunci else menangkap apa pun yang tidak ditangkap oleh kondisi sebelumnya.
 
 
 ## Advices:
